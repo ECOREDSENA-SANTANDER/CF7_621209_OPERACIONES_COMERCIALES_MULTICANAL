@@ -145,7 +145,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CF7_621209_DU.pdf',
+        download: 'downloads/CF9_621209_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -246,25 +246,21 @@ export default {
     {
       referencia:
         'Actualícese. (2018). Cierre o arqueo de caja diario: errores y complicaciones que se pueden presentar en el proceso. ',
-      link:
-        'https://actualicese.com/archivo/cierre-o-arqueo-de-caja-diario-errores-y-complicaciones-que-se-pueden-presentar-en-el-proceso/',
+      link: 'https://actualicese.com/archivo/cierre-o-arqueo-de-caja-diario-errores-y-complicaciones-que-se-pueden-presentar-en-el-proceso/',
     },
     {
       referencia:
         'Clasificación de envases. (2017). Clasificación de los envases según su función. ',
-      link:
-        'https://clasificaciondeenvases.blogspot.com/2017/10/clasificacion-de-envases-en-funcion-de.html ',
+      link: 'https://clasificaciondeenvases.blogspot.com/2017/10/clasificacion-de-envases-en-funcion-de.html ',
     },
     {
       referencia:
         'LogDist. (2020). Normas ISO para empaques y embalajes: las reglas de calidad. ',
-      link:
-        'https://es.vmalogdist.com/normas-iso-para-empaques-y-embalajes-las-reglas-de-calidad/ ',
+      link: 'https://es.vmalogdist.com/normas-iso-para-empaques-y-embalajes-las-reglas-de-calidad/ ',
     },
     {
       referencia: 'UMNG. (s.f.) Empaque y embalaje. UMNG. ',
-      link:
-        'http://virtual.umng.edu.co/distancia/ecosistema/ovas/administracion_empresas/logistica/unidad_4/DM.pdf ',
+      link: 'http://virtual.umng.edu.co/distancia/ecosistema/ovas/administracion_empresas/logistica/unidad_4/DM.pdf ',
     },
   ],
   creditos: [
