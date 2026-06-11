@@ -393,7 +393,7 @@
     #t_3_2.titulo-segundo.mb-5
       h2 3.2 Tipos
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-2
       .col-lg-4.col-8
         img.mb-2(src='@/assets/curso/tema3/img11.png', alt='tema1')
       .col-lg-8
@@ -405,19 +405,7 @@
         .cajon.color-primario.p-4.mb-4
           p Teniendo en cuenta los diferentes tipos de envases se deben categorizar en primarios, secundarios y terciarios, el envase primario es el que protege y está en contacto directo con el producto, el secundario contiene varios productos y facilita su traslado, el terciario es el que contiene envases grandes con mucha mercancía.
 
-    .tarjeta.color-acento-contenido.p-4.mb-5
-      .row.justify-content-around.align-items-center
-        .col-3.col-sm-2.col-lg-1
-          img(src="@/assets/curso/tema3/software.svg")
-        .col
-          .row.justify-content-between.align-items-center
-            .col.mb-3.mb-sm-0
-              h3.mb-3 Video ilustrativo anexo
-              p.text-small ¿cuáles son los tipos de envases? / características de los envases / tipos de empaque o embalaje.
-            .col-sm-auto
-              a.boton.color-acento-botones(:href="('https://www.youtube.com/watch?v=yzNQGlXXcms')" target="_blank")
-                span Ir al sitio
-                i.fas.fa-file-download
+   
 
 
     .row.justify-content-start.mb-5(data-aos="zoom-in-left")
@@ -629,19 +617,7 @@
 
 
 
-    .tarjeta.color-acento-contenido.p-4.mb-5
-      .row.justify-content-around.align-items-center
-        .col-3.col-sm-2.col-lg-1
-          img(src="@/assets/curso/tema3/software.svg")
-        .col
-          .row.justify-content-between.align-items-center
-            .col.mb-3.mb-sm-0
-              h3.mb-3 Video ilustrativo anexo
-              p.text-small En el video ilustrativo anexo, adicionalmente podrá conocer un poco sobre #[em packaging].
-            .col-sm-auto
-              a.boton.color-acento-botones(:href="('https://www.youtube.com/watch?v=_Lka-gWZ1t8')" target="_blank")
-                span Ir al sitio
-                i.fas.fa-file-download
+   
 
     separador
     #t_3_5.titulo-segundo.mb-5
