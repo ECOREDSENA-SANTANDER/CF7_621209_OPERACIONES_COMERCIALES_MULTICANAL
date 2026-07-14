@@ -64,7 +64,7 @@
       .py-3
       .col-lg-11
         .tarjeta.tarjeta--gris.p-4.mb-5
-          LineaTiempoC.color-secundario(text-small)
+          LineaTiempoC.color-acento-contenido(text-small)
             .row(titulo="1").p-4
               .col-md-2.col-8
                 figure
@@ -387,8 +387,7 @@
               br
               br
               br
-    p.mb-3 Son considerados envases todos los artículos “desechables” utilizados con este mismo fin. En este grupo están incluidas las bolsas en las que se empacan los productos de un solo uso y que son entregadas o adquiridas en los comercios por el cliente y los empaques desechables que se utilicen con el mismo fin, como las bandejas, platos, vasos, cubiertos y cualquier otro artículo desechable que se emplea principalmente en la hotelería.
-
+    p.mb-3 También se consideran envases los artículos desechables utilizados para contener, proteger o facilitar el transporte de los productos. Entre ellos se encuentran las bolsas entregadas o adquiridas por el cliente en los establecimientos comerciales, así como las bandejas, los platos, los vasos, los cubiertos y otros recipientes de un solo uso.
     separador
     #t_3_2.titulo-segundo.mb-5
       h2 3.2 Tipos
@@ -414,7 +413,7 @@
           img.w-card-icon(src="@/assets/curso/tema2/icon.svg")
           .bg55.py-3.w-card-text.fw-bold.text-white Tipos de envases para los alimentos
 
-    p.mb-3 En los envases para alimentos y bebidas se deben tener en cuenta las materias primas con las que se producen, para estos envases se utilizan metal, vidrio, plástico, papel y cartón, cada uno tiene sus ventajas y desventajas, a continuación, profundice en el tema y responda algunas preguntas que puedan surgir.
+    p.mb-3 Los envases para alimentos y bebidas se elaboran con materiales como metal, vidrio, plástico, papel y cartón. Cada material presenta características, ventajas y desventajas según el producto que debe contener y proteger. A continuación, consulte el recurso para conocer los tipos de envases y sus principales características.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12.col-12.col-sm-12
@@ -424,64 +423,64 @@
               .col-7
                 img.mt-2(src='@/assets/curso/tema3/01.png' alt='AvatarTop')
             h5.text-center.mt-4 El envase primario
-            p.text-center.mt-4 Es el que tiene contacto directo con el producto, además de contener el producto permite su consumo. 
-            p.text-center.mt-4 Un ejemplo de envase primario son las latas que contienen leche, sea líquida o en polvo. La función de este primer envase es cumplir con dos condiciones principales: proteger la mercancía y fomentar las ventas.
+            p.mt-4 Es el que tiene contacto directo con el producto, además de contener el producto permite su consumo. 
+            p.mt-4 Un ejemplo de envase primario son las latas que contienen leche, sea líquida o en polvo. La función de este primer envase es cumplir con dos condiciones principales: proteger la mercancía y fomentar las ventas.
           
           .tarjeta.color-acento-botones.p-4
             .row.justify-content-center.mb-3
               .col-7
                 img.mt-2(src='@/assets/curso/tema3/02.png' alt='AvatarTop')
-              h5.text-center.mt-4 Envase secundario
-              p.text-center.mt-4 Es el contenedor unitario de uno o varios envases primarios. Su función es protegerlos, identificarlos y proporcionar información sobre las cualidades del producto.
+              h5.mt-4.text-center Envase secundario
+              p.mt-4 Es el contenedor unitario de uno o varios envases primarios. Su función es protegerlos, identificarlos y proporcionar información sobre las cualidades del producto.
           
           .tarjeta.color-acento-botones.p-4
             .row.justify-content-center.mb-3
               .col-7
                 img.mt-2(src='@/assets/curso/tema3/03.png' alt='AvatarTop')
-              h5.text-center.mt-4 Envase terciario
-              p.text-center.mt-4 Es el envase que cumple con la función de distribuir, unificar y proteger el producto a lo largo de la cadena comercial.  Este envase se refiere a la caja de cartón corrugado que contendrá varias latas de leche para su distribución a los almacenes.
+              h5.mt-4.text-center Envase terciario
+              p.mt-4 Es el envase que cumple con la función de distribuir, unificar y proteger el producto a lo largo de la cadena comercial.  Este envase se refiere a la caja de cartón corrugado que contendrá varias latas de leche para su distribución a los almacenes.
           
           .tarjeta.color-acento-botones.p-4
             .row.justify-content-center.mb-3
               .col-7
                 img.mt-2(src='@/assets/curso/tema3/04.png' alt='AvatarTop')
             h5.text-center.mt-4 ¿Qué es el envase y sus características?
-            p.text-center.mt-4 El envase es todo recipiente o soporte destinado a contener un producto para así poder facilitar su transporte. 
-            p.text-center.mt-4 Un buen envase se identifica por las siguientes características: posibilidad de contener el producto y resistencia.
+            p.mt-4 El envase es todo recipiente o soporte destinado a contener un producto para así poder facilitar su transporte. 
+            p.mt-4 Un buen envase se identifica por las siguientes características: posibilidad de contener el producto y resistencia.
           
           .tarjeta.color-acento-botones.p-4
             .row.justify-content-center.mb-3
               .col-7
                 img.mt-2(src='@/assets/curso/tema3/05.png' alt='AvatarTop')
               h5.text-center.mt-4 ¿Cuál es el mejor envase para alimentos?
-              p.text-center.mt-4 Unos de los envases que más se usa para empacar alimentos es el aluminio y la hojalata, ya que son más confiables que las bolsas de plástico a la hora del transporte, también porque extiende la vida útil del producto, factor importante en la planificación y sostenibilidad de la venta.
+              p.mt-4 Unos de los envases que más se usa para empacar alimentos es el aluminio y la hojalata, ya que son más confiables que las bolsas de plástico a la hora del transporte, también porque extiende la vida útil del producto, factor importante en la planificación y sostenibilidad de la venta.
           
           .tarjeta.color-acento-botones.p-4
             .row.justify-content-center.mb-3
               .col-7
                 img.mt-2(src='@/assets/curso/tema3/06.png')
             h5.text-center.mt-4 ¿Qué tipo de envases plásticos se pueden utilizar para alimentos?
-            p.text-center.mt-4 El PET (material sintético denominado poliéster) es muy usado en el envasado de los diferentes tipos de refrescos, bebidas para deportistas, agua, salsas, aderezos para ensaladas, vitaminas, botellas de aceite vegetal y envasado de mantequilla de maní. Pero también existen otros materiales.
+            p.mt-4 El PET (material sintético denominado tereftalato de polietileno) es muy usado en el envasado de los diferentes tipos de refrescos, bebidas para deportistas, agua, salsas, aderezos para ensaladas, vitaminas, botellas de aceite vegetal y envasado de mantequilla de maní. Pero también existen otros materiales.
           .tarjeta.color-acento-botones.p-4
             .row.justify-content-center.mb-3
               .col-7
                 img.mt-2(src='@/assets/curso/tema3/07.png' alt='AvatarTop')
-              h5.text-center.mt-4 ¿Cuál es el material más utilizado para empaques de alimentos?
-              p.text-center.mt-4 El plástico tiene muchas aplicaciones en los tipos de envases para cualquier alimento debido a sus propiedades, que ha encontrado cada vez más aplicaciones en el campo de envases para todo tipo de alimentos es el PET, debido a sus propiedades, su inercia química, su maleabilidad y su color.
+              h5.text-center.mt-4 ¿Cuál es uno de los materiales más utilizados para fabricar envases de alimentos?
+              p.mt-4 El plástico es uno de los materiales más utilizados para fabricar envases de alimentos debido a sus propiedades. Entre los tipos de plástico empleados se encuentra el PET (tereftalato de polietileno), valorado por su inercia química y su facilidad para adoptar diferentes formas.
           .tarjeta.color-acento-botones.p-4
             .row.justify-content-center.mb-3
               .col-7
                 img.mt-2(src='@/assets/curso/tema3/08.png' alt='AvatarTop')
-              h5.text-center.mt-4 Bolsas de plástico
-              p.text-center.mt-4 Hay que tener en cuenta que solo los envases de plástico permitidos para preparar los alimentos en microondas son los que pueden utilizarse en este aparato. 
-              p.text-center.mt-4 En este sentido no olvidar que este material se puede fundir o contaminar los alimentos.  Si bien es un producto muy útil para diversos usos, este material al menos que se indique no es apto para microondas.
+              h5.text-center.mt-4 Envases plásticos aptos para microondas
+              p.mt-4 Solo se deben utilizar en el microondas los envases plásticos que indiquen expresamente que son aptos para este uso. Los recipientes no autorizados pueden deformarse, fundirse o liberar sustancias que contaminen los alimentos.
+
           .tarjeta.color-acento-botones.p-4
             .row.justify-content-center.mb-3
               .col-7
                 img.mt-2(src='@/assets/curso/tema3/09.png' alt='AvatarTop')
             h5.text-center.mt-4 ¿Qué recipientes no se pueden meter en el microondas?
-            p.text-center.mt-4 Hay que ser muy cuidadoso con los recipientes que se usan para la preparación de alimentos en el microondas, no se pueden utilizar el papel de aluminio o las tapas metálicas hasta recipientes de acero inoxidable o las vajillas decoradas con pinturas metálicas. 
-            p.text-center.mt-4 No se deben usar los recipientes herméticamente cerrados e incluso los alimentos con cáscara o piel dura para evitar que revienten.
+            p.mt-4 Hay que ser muy cuidadoso con los recipientes que se usan para la preparación de alimentos en el microondas, no se pueden utilizar el papel de aluminio o las tapas metálicas hasta recipientes de acero inoxidable o las vajillas decoradas con pinturas metálicas. 
+            p.mt-4 No se deben usar los recipientes herméticamente cerrados e incluso los alimentos con cáscara o piel dura para evitar que revienten.
       
 
 
@@ -500,13 +499,13 @@
                 ul.lista-ul.ps-2
                   li.d-flex.mb-4
                     i.fas.fa-circle-check
-                    p.mb-0 #[b Envase unitario:] como su nombre lo indica contiene un solo producto, la mayoría de los productos tiene envase unitario o primario, es la unidad de venta de un solo contenido.
+                    p.mb-0 #[b Envase unitario:] envase que contiene una sola unidad de producto destinada a la venta al consumidor. Generalmente corresponde al envase primario, ya que está en contacto directo con el producto.
                   li.d-flex.mb-4
                     i.fas.fa-circle-check
-                    p.mb-0 #[b Envase múltiple:] es cualquier recipiente o envoltura que contiene dos o más productos destinados para la venta al cliente, casi siempre su precio es levemente inferior.
+                    p.mb-0 #[b Envase múltiple:] recipiente o envoltura que contiene dos o más unidades de un mismo producto o de productos relacionados, destinados a la venta como una sola presentación.
                   li.d-flex.mb-4
                     i.fas.fa-circle-check
-                    p.mb-0 #[b Envase colectivo:] es la envoltura o recipiente que contiene dos o más productos envasados previamente.
+                    p.mb-0 #[b Envase colectivo:] envoltura o recipiente que agrupa dos o más productos previamente envasados para facilitar su almacenamiento, transporte o distribución.
               .col-lg-4.mb-4
                 img.img-a.img-t(src="@/assets/curso/tema3/img015.png")
 
@@ -563,7 +562,7 @@
                 img(src='@/assets/curso/tema3/img19.png')
             .row.justify-content-center.mb-3
               h5.text-center.text-white ISO 3394
-              p.text-center.text-white Se refiere a las dimensiones de cajas, plataformas o cargas con #[em pallets]. Las cajas externas o #[em masters], utilizadas para el embalaje deben ajustarse a 60×40 cm.
+              p.text-center.text-white Se refiere a las dimensiones de cajas, plataformas o cargas con #[em pallets]. Las cajas externas o #[em masters], utilizadas para el embalaje deben ajustarse a 60 × 40 cm.
                 
           .tarjeta.color-secundario-cus.p-4
             .row.justify-content-center.mb-3
@@ -604,7 +603,7 @@
               :style="{'background-image': `url(${require('@/assets/curso/tema3/img23.png')})`}"
             )
             .bloque-texto-g__texto.p-5
-              p.mb-4 Uno de los empaques que necesita más cuidado son las frutas y verduras, ya que requieren de un empaque eficaz, teniendo en cuenta que es un producto delicado y se debe proteger su calidad durante su transporte y en los estantes del punto de venta. Este empaque se debe seleccionar dependiendo del tipo de producto y lo que funcione mejor para envolverlo y proveer el mejor método de manejo. Este tipo de empaque debe ser diseñado para soportar de forma eficaz diferentes condiciones en la cadena de abastecimiento: manipulación brusca al cargar y descargar, compresión derivada del peso de otros contenedores (si están apiladas dobles), su movimiento durante el transporte, y la alta humedad que puede presentarse durante el pre - enfriamiento, tránsito y almacenamiento.
+              p.mb-4 Uno de los empaques que requiere mayor cuidado es el destinado a frutas y verduras, ya que estos productos son delicados y es necesario proteger su calidad durante el transporte y su exhibición en los estantes del punto de venta. Este tipo de empaque debe seleccionarse de acuerdo con las características del producto y con el método de manipulación más adecuado. Asimismo, debe diseñarse para soportar las diferentes condiciones de la cadena de abastecimiento, como la manipulación durante la carga y descarga, la compresión ocasionada por el peso de otros contenedores (cuando se apilan en doble nivel), el movimiento durante el transporte y la alta humedad que puede presentarse durante el preenfriamiento. 
              
     p.mb-3 El tener un buen conocimiento de todos los aspectos de empaque es clave al momento de seleccionar el más adecuado, de acuerdo con el tipo de producto que se enviará y para tener un mejor manejo del producto durante el tránsito.
 
@@ -629,10 +628,9 @@
       .col-lg-12
         img.mb-3(src="@/assets/curso/tema3/img20.svg")
 
-      p.mb-3 En otras palabras, los empaques y embalajes se deben elaborar teniendo en cuenta la manipulación que se le vaya a dar tanto en el transporte como en el manejo, son muy usados en los productos de exportación, los más usados son madera, cartón, plástico, vidrio y metal, ya que son resistentes por la composición mecánica, física y química del producto.
-      p.mb-3 Explore los materiales más comunes en la elaboración de empaques o embalajes, sus ventajas y desventajas:
-
-
+      p.mb-3 Los empaques y embalajes deben seleccionarse de acuerdo con las características del producto y las condiciones de manipulación y transporte. Entre los materiales más utilizados se encuentran la madera, el cartón, el plástico, el vidrio y el metal. La elección del material depende de sus propiedades físicas, mecánicas y químicas, así como de la protección que requiera el producto.
+      p.mb-3 A continuación, consulte las ventajas y desventajas de los materiales más comunes utilizados en la elaboración de empaques y embalajes.
+     
       .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
         .col-lg-12.col-md-12.col-12
           AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
@@ -693,7 +691,7 @@
  
                     li.d-flex.mb-0
                       i.fas.fa-circle-check
-                      p.mb-0 Problemas de termo estabilidad. Empaques metálicos.
+                      p.mb-0 Problemas de termoestabilidad. Empaques metálicos.
                 .col-lg-4.mb-4
                   img.img-a.img-t(src="@/assets/curso/tema3/gr02.png")
 
@@ -740,17 +738,20 @@
                   ul.lista-ul.ps-2
                     li.d-flex.mb-0
                       i.fas.fa-circle-check
-                      p.mb-0 Incoloro e insaboro. 
+                      p.mb-0 No altera el olor ni el sabor del contenido.
+
 
                     li.d-flex.mb-0
                       i.fas.fa-circle-check
-                      p.mb-0 Gran resistencia a la presión interna y altas temperaturas sin perder propiedades.
+                      p.mb-0 Actúa como barrera frente a gases y vapores, lo que favorece la conservación del producto.
+
                     li.d-flex.mb-0
                       i.fas.fa-circle-check
-                      p.mb-0 Fácil cortado, trazado, plegado. 
+                      p.mb-0 Puede soportar presión interna y procesos térmicos cuando el envase está diseñado para estas condiciones.
+
                     li.d-flex.mb-0
                       i.fas.fa-circle-check
-                      p.mb-0 Degradación física y química lenta. 
+                      p.mb-0 Es reciclable.
                   h4 Desventajas
                   ul.lista-ul.ps-2
                     li.d-flex.mb-0
@@ -856,7 +857,7 @@
                 td Madera en bruto, cepillada y aglomerada.
                 td Cajas, #[em pallets] y canastas.
                 td Fácil de manipular y estibar.
-                td Altos costos, sensible al sol y humedad, fácil descomposición, contaminable, sensible a plagas, inflamable y pesado.
+                td Altos costos, sensible al sol y a la humedad, fácil descomposición, contaminable, sensible a plagas, inflamable y pesado.
               tr
                 td Cartón
                 td Plano, ondulado o corrugado.
@@ -865,20 +866,20 @@
                 td Muy frágil, sensible a la humedad y al calor, poco sólido, no reutilizable.
               tr
                 td Plástico
-                td Polietileno y poliestireno (PVC).
-                td Bolas, toneles, bidones, cajas y contenedores.
+                td Polietileno (PE), poliestireno (PS) y policloruro de vinilo (PVC).
+                td Bolsas, toneles, bidones, cajas y contenedores.
                 td Impermeabilidad, gran diversidad, reutilizable.
                 td Inflamable, costoso y difícil eliminación.
               tr
                 td Papel
-                td 
+                td Papel kraft, papel encerado y papel parafinado.
                 td Bolsas.
                 td Bajos costos y fácil eliminación.
                 td Muy frágil, sensible a la humedad y al calor.
 
               tr
                 td Vidrio
-                td 
+                td Vidrio sodocálcico y vidrio borosilicato.
                 td Botellas, frascos y botellones.
                 td Visibilidad del contenido, fácil estibado y reciclable.
                 td Frágil a los golpes, pesado y voluminoso.

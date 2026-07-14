@@ -45,7 +45,7 @@
                 img(src='@/assets/curso/tema2/img05.png', alt='')
               .py-2
             .col-md-7.mb-4.mb-md-0
-              p Debe retirar o desactivar los #[em tag’s] de seguridad, recuerde que algunos proveedores los colocan a sus productos, como cosméticos, medicamentos, algunas marcas de leche en polvo, libros y revistas o los #[em hard tag] que le colocan a los textiles, zapatos y otros productos que no se dañan con este sistema de seguridad.
+              p Debe retirar o desactivar los #[em tags] de seguridad, recuerde que algunos proveedores los colocan a sus productos, como cosméticos, medicamentos, algunas marcas de leche en polvo, libros y revistas o los #[em hard tag] que le colocan a los textiles, zapatos y otros productos que no se dañan con este sistema de seguridad.
           
           .row.justify-content-center.align-items-center.mb-5.p-4
             .col-md-3.col-8
@@ -68,7 +68,7 @@
       .col-sm-12.col-lg-8
         .d-flex.align-items-center.mt-4
           img.w-card-icon(src="@/assets/curso/tema2/icon.svg")
-          .bg55.py-2.w-card-text.fw-bold.text-white El desactivador de #[em tag’s]     
+          .bg55.py-2.w-card-text.fw-bold.text-white El desactivador de #[em tags]     
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12.col-md-12.col-12
@@ -77,16 +77,16 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema2/img002.png')})`}"
           )
           .bloque-texto-g__texto.p-5
-            p.mb-4 Es el equipo para que se desactiven los #[em tag’s] o dispositivos de seguridad que le colocan en el almacén a los productos para evitar que salgan sin ser registrados, la mayoría de ellos son de textiles, variedades y licores. 
+            p.mb-4 Es el equipo para que se desactiven los #[em tags] o dispositivos de seguridad que le colocan en el almacén a los productos para evitar que salgan sin ser registrados, la mayoría de ellos son de textiles, variedades y licores. 
             br
             br
             |
-            p Los puestos de pago también tienen incorporado un desactivador para los #[em tag’s] que traen internamente en el empaque algunos cosméticos y medicamentos, estos dispositivos son colocados por el fabricante y no son reutilizables.
+            p Los puestos de pago también tienen incorporado un desactivador para los #[em tags] que traen internamente en el empaque algunos cosméticos y medicamentos, estos dispositivos son colocados por el fabricante y no son reutilizables.
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
         .cajon.color-acento-contenido.p-4.mb-4
-          p Nota. Siempre se debe retirar y / o deshabilitar el #[em tag] del producto para evitar que se activen las alarmas en las salidas del almacén, incomodando al cliente.
+          p Nota. Siempre se debe retirar y/o deshabilitar el #[em tag] del producto para evitar que se activen las alarmas en las salidas del almacén, incomodando al cliente.
     
     separador
     #t_2_1.titulo-segundo.mb-5
@@ -142,7 +142,7 @@
             |Los instrumentos de pago por Internet como Paypal también son medios de pago.
         p En los últimos años se ha incrementado el número de personas que efectúan transacciones, es una creciente tendencia teniendo en cuenta el volumen de transacciones que se llevan a cabo en la economía mundial.
         .cajon.color-acento-contenido.p-4.mb-4
-          p Las empresas comerciales, instituciones financieras y autoridades han encontrado alternativas para masificar los servicios a través del uso del plástico (crédito, débito, prepagadas) y pagos móviles desde celulares, las diferentes plataformas que se encuentran en la Internet tienen el propósito de atender una creciente demanda que masifica la experiencia de pagos, los avances tecnológicos contribuyen de manera importante y no dejarán de sorprender.
+          p Las empresas comerciales, instituciones financieras y autoridades han encontrado alternativas para masificar los servicios a través del uso del plástico (crédito, débito, prepagadas) y pagos móviles desde celulares. Las diferentes plataformas que se encuentran en la Internet tienen el propósito de atender una creciente demanda que masifica la experiencia de pagos, los avances tecnológicos contribuyen de manera importante y no dejarán de sorprender.
       .py-4
       p Más allá de factores como la rapidez o la accesibilidad en la modalidad de pago que se escoja, la experiencia cotidiana enseña que en el momento de verdad esa diversidad de medios de pago es fundamental a la hora de escoger las diferentes opciones que ofrece el mercado, para esa selección es importante tener en cuenta que existen dos aspectos básicos:
     
@@ -174,7 +174,7 @@
         p Con respecto al tema de costo beneficio, cada empresa oferta diferentes planes de mercadotecnia o estrategia que considere atractiva para su público objetivo.
         p En las condiciones actuales teniendo en cuenta el reto principal que es la aceptación de las diferentes opciones de medios de pago, uno de los mayores atractivos para el cliente es el argumento de la seguridad que ofrezca cada alternativa y sobre todo la percepción que tenga el público usuario. Así como se ha señalado, la tecnología no dejará de sorprender en cuanto a seguridad se refiere, recuerde que la tecnología tiene dos caras, una positiva y una negativa que vulnera los sistemas o medios de pago.
         .cajon.color-secundario.p-4.mb-4
-          p Las autoridades que tienen que ver con medios de pago en Colombia han avanzado en la regulación de nuevas modalidades que cumplan con correctas opciones de medios de pago para que el cliente incremente su nivel de confiabilidad y perciba absolutamente la funcionalidad de la condición de seguridad más elemental, que lo invite a hacer uso de las nuevas opciones.
+          p Las autoridades que tienen que ver con medios de pago en Colombia han avanzado en la regulación de nuevas modalidades que cumplan con correctas opciones de medios de pago, para que el cliente incremente su nivel de confiabilidad y perciba absolutamente la funcionalidad de la condición de seguridad más elemental, que lo invite a hacer uso de las nuevas opciones.
       .col-lg-1.col-3
         img(src='@/assets/curso/tema2/pago.png', alt='')
     
@@ -231,7 +231,7 @@
       .col-lg-4.col-8.py-2.col-sm-6
         img(src='@/assets/curso/tema2/img007.png', alt='')
       .col-lg-8
-        p La mayoría de las entidades bancarias conceden de forma automática a los independientes y pymes un TPV (Terminal punto de venta virtual), estos contienen un nivel de seguridad para poder recibir pagos en su #[em e-commerce], el nivel de seguridad exige que todas las compras sean efectuadas con tarjetas que cumplan con el protocolo 3D Secure.
+        p La mayoría de las entidades bancarias conceden de forma automática a los independientes y pymes un TPV (terminal punto de venta virtual), estos contienen un nivel de seguridad para poder recibir pagos en su #[em e-commerce], el nivel de seguridad exige que todas las compras sean efectuadas con tarjetas que cumplan con el protocolo 3D Secure.
         .cajon.color-acento-contenido.p-4.mb-4
           p Hay que tener en cuenta que todas las tarjetas débito y crédito están compuestas por 16 dígitos, tienen fecha de caducidad y un criptograma visual (CVV) de tres dígitos de control para la verificación de la transacción en el sitio web del banco, el cual pide una clave adicional como medida de seguridad, que ayuda a disminuir los niveles de inseguridad en los pagos que se realizan con tarjetas débito y crédito, ofreciendo confiabilidad en los pagos electrónicos que realizan los clientes.
         p.mb-4 La condición o circunstancia desventajosa para las tiendas #[em online] es que a pesar de que algunas de las tarjetas 3D Secure están habilitadas para las compras #[em online], fallan al momento de la compra, las tarjetas se entregan deshabilitadas cuando las entrega la entidad financiera o cuando se renuevan y requieren una activación inicial con el banco.
@@ -240,43 +240,44 @@
 
     separador
     #t_2_4.titulo-segundo.mb-5
-      h2 2.4  Excedentes de pago
+      h2 2.4  Faltantes y sobrantes de caja
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
-      .col-lg-1.col-4.py-2.col-sm-3
-        img(src='@/assets/curso/tema2/pago.png', alt='')
-      .col-lg-7
-        p Cuando suceda que al momento del arqueo haya menos dinero del que debería haber o que haya un valor de caja mayor que el reportado, son errores comunes que se pueden presentar en el cierre de caja.
-        p El proceso de arqueo o cierre de caja es un proceso contable que se realiza al final de una jornada de ventas para saber si el efectivo más otros comprobantes de pago físicos coinciden con los valores reportados en la venta de caja.
-
+      .col-lg-8
+        .row.justify-content-center
+          .col-lg-2.col-4.py-2.col-sm-3
+            img.porc(src='@/assets/curso/tema2/pago.png', alt='')
+          .col-lg-10
+            p Durante el arqueo o cierre de caja pueden presentarse dos tipos de diferencias: un faltante, cuando el valor disponible es menor al registrado, o un sobrante, cuando es mayor.
+            p El arqueo o cierre de caja es un procedimiento contable que se realiza al final de la jornada para verificar si el efectivo y los comprobantes de pago coinciden con los valores registrados en el sistema.
         .cajon.color-primario.p-4.mb-4
-          p Toda caja hace su apertura con un valor inicial en efectivo, con el fin de que haya una base como punto de partida de las operaciones diarias, durante el día se hacen ventas que se pagan con diferentes medios de pago tales como efectivo, tarjetas débito, crédito, bonos, cheques, redenciones de sistemas de puntos, pagos a plazos, créditos internos, etc.
+          p La caja inicia operaciones con un valor base en efectivo. Durante la jornada se registran ventas pagadas mediante diferentes medios, como efectivo, tarjetas débito o crédito, bonos, cheques, redención de puntos, pagos a plazos y créditos internos.
       
       .col-lg-4.col-8.col-sm-6
         img(src='@/assets/curso/tema2/img008.png', alt='')
-      .py-2
-      p.mb-3.text-center En el proceso de arqueo o cierre de caja se pueden detectar los siguientes errores presentes en el punto de pago:
+  
+      p.mb-3 En el proceso de arqueo o cierre de caja se pueden detectar los siguientes errores presentes en el punto de pago:
 
       .row.justify-content-center.mb-5.bg02.p-4(data-aos="fade-left")
         .col-lg-5
           h5.mb-3 Faltantes de dinero, lo cual puede suceder por:
           ul.lista-ul--color
-            li
+            li.d-flex
               i.fas.fa-circle-check
               |Dar devoluciones superiores a los clientes. 
-            li
+            li.d-flex
               i.fas.fa-circle-check
               |No tener en cuenta salidas de dinero para compras u otros gastos del negocio.
-            li
+            li.d-flex
               i.fas.fa-circle-check
               |Se pierden comprobantes de pago.
-            li
+            li.d-flex
               i.fas.fa-circle-check
               |No se registran algunos descuentos concedidos a los clientes.
-            li
+            li.d-flex
               i.fas.fa-circle-check
               |Cuando se registra y no se tiene en cuenta si son ventas a crédito o por plazos.
-            li
+            li.d-flex
               i.fas.fa-circle-check
               |Robo.
         .col-lg-4.py-2.col-sm-6
@@ -284,15 +285,15 @@
         .col-lg-3
           h5.mb-3 Sobrantes de dinero, lo cual puede suceder por:
           ul.lista-ul--color
-            li
+            li.d-flex
               i.fas.fa-circle-check
               |El cajero entrega menos devolución de dinero.
 
-            li
+            li.d-flex
               i.fas.fa-circle-check
               |Algunas entradas recibidas por el cajero no son contabilizadas.
 
-            li
+            li.d-flex
               i.fas.fa-circle-check
               |Se cobra un valor mayor al cliente por las compras realizadas.
 

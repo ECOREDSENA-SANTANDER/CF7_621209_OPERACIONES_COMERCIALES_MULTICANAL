@@ -14,11 +14,11 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema1/img001.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-4 Para comenzar es importante esta definición, que es la acción de culminar con amabilidad la experiencia de compra de nuestros clientes en el almacén, registrando con agilidad y precisión los artículos que este ha seleccionado. La función general como cajero es atender de forma cortés a los clientes y registrar con oportunidad y exactitud los artículos que estos han seleccionado.
+            p.mb-4 El recaudo en el punto de pago consiste en culminar con amabilidad la experiencia de compra del cliente mediante el registro ágil y preciso de los artículos seleccionados. La función principal de la persona encargada de la caja es atender al cliente de forma cortés y registrar los productos de manera oportuna y exacta.
             br
             br
             |
-            p La finalidad del recaudo es brindar un excelente servicio al cliente en el puesto de pago, efectuando el correcto registro y cobro de las mercancías que este adquiere, cumpliendo con las normas, políticas y procedimientos definidos por la compañía. Para iniciar el proceso de recaudo se debe contar con una base, conocer la estructura de la terminal POS y hacer la apertura de la caja.
+            p La finalidad del recaudo es brindar un servicio de calidad en el punto de pago mediante el registro y cobro correctos de las mercancías, de acuerdo con las normas, políticas y procedimientos establecidos por la empresa. Para iniciar este proceso, se debe disponer de una base de caja, conocer la estructura de la terminal POS (punto de venta) y realizar la apertura de la caja.
 
 
     separador
@@ -40,7 +40,7 @@
     #t_1_2.titulo-segundo.mb-5
       h2 1.2  Apertura de la caja
 
-    p.mb-5 Las operaciones que realiza el cajero en el puesto de pago durante su jornada se clasifican en las etapas definidas como el antes, el durante y el después, consulta el siguiente video.       
+    p.mb-5 Las operaciones que realiza el cajero en el puesto de pago durante su jornada se organizan en tres etapas: antes, durante y después. Para conocer las actividades que comprende cada una de ellas, consulte el siguiente video.
     
     .row.justify-content-center.align-items-center(data-aos="fade-left")
       .col-lg-12.col-12.col-md-12

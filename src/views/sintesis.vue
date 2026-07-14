@@ -8,9 +8,9 @@
       .col-lg-12
         .p-1.mb-5
           figure.my-3
-            img(src="@/assets/curso/sintesis.svg", alt="La síntesis organiza las habilidades clave en un punto de pago en cinco secciones: Propósitos (manejo de dinero y transacciones), Recepción en el punto de pago (manejo de cajas y atención al cliente), Validación de transacciones (revisión, seguridad y documentación), Técnicas de entrega (eficiencia en manejo de productos) y Descripción del empaque (tipos y características del empaque). Cada sección detalla competencias prácticas y conceptuales necesarias para el proceso.")
+            img(src="@/assets/curso/sintesis.svg", alt="Mapa conceptual sobre destrezas en el punto de pago, organizado en propósito, recaudo, validación, empaque y técnicas de empaque.")
       .col-auto
-        a.anexo.mb-5(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
+        a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto

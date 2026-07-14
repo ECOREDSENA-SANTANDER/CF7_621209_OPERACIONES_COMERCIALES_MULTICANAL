@@ -74,7 +74,7 @@ export default {
           },
           {
             numero: '2.4',
-            titulo: 'Excedentes de pago',
+            titulo: 'Faltantes y sobrantes de caja',
             hash: 't_2_4',
           },
           {
@@ -162,9 +162,9 @@ export default {
 
   glosario: [
     {
-      termino: 'Apertura',
+      termino: 'Apertura de caja',
       significado:
-        'acto con que se da comienzo a las funciones de una asamblea, centro o institución en la sesión de apertura de cualquier proceso.',
+        'procedimiento mediante el cual se habilita la caja al inicio de la jornada, se registra la base de dinero y se prepara el punto de pago para realizar las transacciones.',
     },
     {
       termino: 'Caja',
@@ -232,7 +232,7 @@ export default {
       significado: ' bien custodiado, en lugar seguro y controlado.',
     },
     {
-      termino: '<i>Tag’s</i>',
+      termino: '<i>Tags</i>',
       significado:
         'etiqueta (lenguaje de marcado), en los lenguajes informáticos de marcado.',
     },
@@ -257,14 +257,24 @@ export default {
     },
     {
       referencia:
-        'LogDist. (2020). Normas ISO para empaques y embalajes: las reglas de calidad. ',
-      link:
-        'https://es.vmalogdist.com/normas-iso-para-empaques-y-embalajes-las-reglas-de-calidad/ ',
-    },
-    {
-      referencia: 'UMNG. (s.f.) Empaque y embalaje. UMNG. ',
+        'Universidad Militar Nueva Granada (UMNG). (s. f.). Unidad 4. Empaque y embalaje. Facultad de Estudios a Distancia (FAEDIS).',
       link:
         'http://virtual.umng.edu.co/distancia/ecosistema/ovas/administracion_empresas/logistica/unidad_4/DM.pdf ',
+    },
+    {
+      referencia:
+        'International Organization for Standardization. (2012). ISO 3394:2012. Packaging — Complete, filled transport packages and unit loads — Dimensions of rigid rectangular packages.',
+      link: '',
+    },
+    {
+      referencia:
+        'International Organization for Standardization. (2015). ISO 780:2015. Packaging — Distribution packaging — Graphical symbols for handling and storage of packages.',
+      link: '',
+    },
+    {
+      referencia:
+        'International Organization for Standardization. (2015). ISO 14001:2015. Environmental management systems — Requirements with guidance for use.',
+      link: '',
     },
   ],
   creditos: [
@@ -296,7 +306,7 @@ export default {
         {
           nombre: 'Jaime Alberto Pérez Posada',
           cargo: 'Instructor',
-          centro: 'Centro de Comercio SENA - Regional Antioquia',
+          centro: 'Centro de Comercio - Regional Antioquia',
         },
         {
           nombre: 'Zvi Daniel Grosman ',
@@ -340,13 +350,13 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Yineth Ibette Gonzalez Quintero',
-          cargo: 'Validadora de recursos educativos digitales',
+          nombre: 'Erika Daniela Manrique Rueda ',
+          cargo: 'Validadora y vinculadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Sandra Liliana Cristancho Cruz',
-          cargo: 'Evaluadora para contenidos inclusivos y accesibles',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
