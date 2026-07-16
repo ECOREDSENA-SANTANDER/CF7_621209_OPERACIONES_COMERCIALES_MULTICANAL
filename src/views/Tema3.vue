@@ -18,7 +18,7 @@
             br
             br
             |
-    p.mb-4.text-center Para que logre prestar un excelente servicio de empaque debe tener en cuenta las siguientes recomendaciones: 
+    p.mb-4 Para que logre prestar un excelente servicio de empaque debe tener en cuenta las siguientes recomendaciones: 
     
     .row.mb-5
       .col-sm-6.col-lg-4.mb-4.mb-lg-0
@@ -104,7 +104,7 @@
                   img(src='@/assets/curso/tema3/5.png', alt='Texto que describa la imagen')
               .col-md-10.mb-4.mb-md-0.py-2
                 h5 Paso 5
-                p Siempre utilice la bolsa sin invertirla, llevan nuestra publicidad e imagen a todas partes, márquela con lapicero si el cliente lo requiere.
+                p Se debe utilizar la bolsa sin invertirla, ya que contiene la publicidad y la imagen de la empresa. Si el cliente lo requiere, se debe marcar con lapicero.
             
             .row(titulo="6").p-4
               .col-md-2.col-8
@@ -622,7 +622,7 @@
     #t_3_5.titulo-segundo.mb-5
       h2 3.5  Empaque de productos según naturaleza
 
-    p.mb-3 Para la elaboración de empaques y embalajes se deben considerar algunos factores, teniendo en cuenta el producto a preservar y el modo de transporte que se va a utilizar, estos factores son:
+    p.mb-3 Para elaborar empaques y embalajes se deben considerar las características del producto que se desea proteger y el medio de transporte que se utilizará. Entre los principales factores se encuentran los siguientes:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
