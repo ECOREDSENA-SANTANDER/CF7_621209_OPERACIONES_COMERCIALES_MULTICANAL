@@ -256,7 +256,7 @@
       .col-lg-4.col-8.col-sm-6
         img(src='@/assets/curso/tema2/img008.png', alt='')
   
-      p.mb-3 En el proceso de arqueo o cierre de caja se pueden detectar los siguientes errores presentes en el punto de pago:
+      p.mb-3 En el proceso de arqueo o cierre de caja se pueden detectar los siguientes errores:
 
       .row.justify-content-center.mb-5.bg02.p-4(data-aos="fade-left")
         .col-lg-5
