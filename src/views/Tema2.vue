@@ -210,21 +210,21 @@
             .row.justify-content-center.mb-4
                   .col-8
                     figure
-                      img.img-a.img-t.my-2(src='@/assets/curso/tema2/num1.png', alt='Texto que describa la imagen')
+                      img.img-a.img-t.my-2(src='@/assets/curso/tema2/num1.png', alt='')
                   p.mb-4.text-center El conocido como modo seguro o 3D Secure.
           
           .col-md.tarjeta.color-primario.bdd.p-4
             .row.justify-content-center.mb-4
                 .col-8
                   figure
-                    img.img-a.img-t.my-2(src='@/assets/curso/tema2/num2.png', alt='Texto que describa la imagen')
+                    img.img-a.img-t.my-2(src='@/assets/curso/tema2/num2.png', alt='')
                 p.mb-4.text-center El modo mixto.
             
           .col-md.tarjeta.color-primario.bd.p-4
             .row.justify-content-center.mb-4
               .col-8
                 figure
-                  img.img-a.img-t.my-2(src='@/assets/curso/tema2/num3.png', alt='Texto que describa la imagen')
+                  img.img-a.img-t.my-2(src='@/assets/curso/tema2/num3.png', alt='')
               p.mb-4.text-center Modo normal o sin 3D Secure.
     .py-3
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")

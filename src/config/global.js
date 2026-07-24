@@ -300,8 +300,7 @@ export default {
         {
           nombre: 'Esperanza Cardona Grisales',
           cargo: 'Instructora ',
-          centro:
-            'Centro de Gestión Tecnológica de Servicios CGTS - Regional Valle',
+          centro: 'Centro de Gestión Tecnológica de Servicios - Regional Valle',
         },
         {
           nombre: 'Jaime Alberto Pérez Posada',

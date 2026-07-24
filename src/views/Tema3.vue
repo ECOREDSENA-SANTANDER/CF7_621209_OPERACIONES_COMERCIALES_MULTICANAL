@@ -26,7 +26,7 @@
           .row.justify-content-center.mb-3
             .col-6.col-lg-5.col-4
               figure
-                img(src='@/assets/curso/tema3/ico1.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/tema3/ico1.png', alt='')
               h3.blanco.text-center.text-white 1
           p.text-center El material debe estar siempre organizado para que evite demoras al momento de seleccionar una bolsa.
 
@@ -35,7 +35,7 @@
           .row.justify-content-center.mb-3
             .col-5.col-lg-4
               figure
-                img(src='@/assets/curso/tema3/ico2.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/tema3/ico2.png', alt='')
               .py-2
               h3.blanco.text-center.text-white 2
           p.text-center.mb-3 Las bolsas están identificadas por tamaño y resistencia para evitar el gasto inoficioso y facilitar el empaque.
@@ -45,7 +45,7 @@
           .row.justify-content-center.mb-2
             .col-5.col-lg-4
               figure
-                img(src='@/assets/curso/tema3/ico3.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/tema3/ico3.png', alt='')
               .py-2
               h3.blanco.text-center.mb-3.text-white 3
           p.text-center Durante el registro debe organizar y clasificar la mercancía de acuerdo con su tamaño, características físicas y composición.
@@ -68,7 +68,7 @@
             .row(titulo="1").p-4
               .col-md-2.col-8
                 figure
-                  img(src='@/assets/curso/tema3/1.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/tema3/1.png', alt='')
               .col-md-10.mb-4.mb-md-0.py-2
                 h5 Paso 1
                 p Observe los productos y proceda a seleccionar la bolsa.
@@ -76,7 +76,7 @@
             .row(titulo="2").p-4
               .col-md-2.col-8
                 figure
-                  img(src='@/assets/curso/tema3/2.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/tema3/2.png', alt='')
               .col-md-10.mb-4.mb-md-0.py-2
                 h5 Paso 2
                 p Para abrir la bolsa introduzca las manos sin sacudirla.          
@@ -85,7 +85,7 @@
             .row(titulo="3").p-4
               .col-md-2.col-8
                 figure
-                  img(src='@/assets/curso/tema3/3.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/tema3/3.png', alt='')
               .col-md-10.mb-4.mb-md-0.py-2
                 h5 Paso 3
                 p Debe distribuir el peso en las bolsas para que el cliente pueda llevarlas en forma equilibrada.
@@ -93,7 +93,7 @@
             .row(titulo="4").p-4
               .col-md-2.col-8
                 figure
-                  img(src='@/assets/curso/tema3/4.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/tema3/4.png', alt='')
               .col-md-10.mb-4.mb-md-0.py-2
                 h5 Paso 4
                 p Recuerde que, para artículos pequeños, use bolsas pequeñas; para artículos grandes, use bolsas grandes. Ponga pocos artículos en bolsas pequeñas y muchos artículos en bolsas grandes.
@@ -101,7 +101,7 @@
             .row(titulo="5").p-4
               .col-md-2.col-8
                 figure
-                  img(src='@/assets/curso/tema3/5.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/tema3/5.png', alt='')
               .col-md-10.mb-4.mb-md-0.py-2
                 h5 Paso 5
                 p Se debe utilizar la bolsa sin invertirla, ya que contiene la publicidad y la imagen de la empresa. Si el cliente lo requiere, se debe marcar con lapicero.
@@ -109,7 +109,7 @@
             .row(titulo="6").p-4
               .col-md-2.col-8
                 figure
-                  img(src='@/assets/curso/tema3/6.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/tema3/6.png', alt='')
               .col-md-10.mb-4.mb-md-0.py-2
                 h5 Paso 6
                 p Otorgue a la bolsa una base firme colocando en el fondo los artículos sólidos y pesados.
@@ -117,7 +117,7 @@
             .row(titulo="7").p-4
               .col-md-2.col-8
                 figure
-                  img(src='@/assets/curso/tema3/7.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/tema3/7.png', alt='')
               .col-md-10.mb-4.mb-md-0.py-2
                 h5 Paso 7
                 p Si una bolsa se rasga, saque todos los artículos y empáquelos en otra.
@@ -125,7 +125,7 @@
             .row(titulo="8").p-4
               .col-md-2.col-8
                 figure
-                  img(src='@/assets/curso/tema3/8.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/tema3/8.png', alt='')
               .col-md-10.mb-4.mb-md-0.py-2
                 h5 Paso 8
                 p Apriete bien las tapas de los frascos que contengan líquidos, así evitará que se rieguen durante el transporte.
@@ -133,7 +133,7 @@
             .row(titulo="9").p-4
               .col-md-2.col-8
                 figure
-                  img(src='@/assets/curso/tema3/9.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/tema3/9.png', alt='')
               .col-md-10.mb-4.mb-md-0.py-2
                 h5 Paso 9
                 p Entre los frascos debe colocar otro artículo en caja o bolsa, para evitar que se quiebren. 
@@ -141,7 +141,7 @@
             .row(titulo="10").p-4
               .col-md-2.col-8
                 figure
-                  img(src='@/assets/curso/tema3/10.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/tema3/10.png', alt='')
               .col-md-10.mb-4.mb-md-0.py-2
                 h5 Paso 10
                 p Disminuya el peso al empacar granos de diferentes tamaños, evitando que las bolsas queden demasiado pesadas.
@@ -149,7 +149,7 @@
             .row(titulo="11").p-4
               .col-md-2.col-8
                 figure
-                  img(src='@/assets/curso/tema3/11.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/tema3/11.png', alt='')
               .col-md-10.mb-4.mb-md-0.py-2
                 h5 Paso 11
                 p Cuando el artículo es húmedo o fácil de derramar debe colocarlo primero en una bolsa plástica sin impresión.
@@ -157,7 +157,7 @@
             .row(titulo="12").p-4
               .col-md-2.col-8
                 figure
-                  img(src='@/assets/curso/tema3/12.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/tema3/12.png', alt='')
               .col-md-10.mb-4.mb-md-0.py-2
                 h5 Paso 12
                 p Los productos de aseo deben ir con los de su misma especie, es decir, aseo hogar separado de aseo personal.
@@ -166,7 +166,7 @@
             .row(titulo="13").p-4
               .col-md-2.col-8
                 figure
-                  img(src='@/assets/curso/tema3/13.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/tema3/13.png', alt='')
               .col-md-10.mb-4.mb-md-0.py-2
                 h5 Paso 13
                 p Algunos productos como escobas, traperos, papel de regalo, flores, sillas, cartulina que por su forma o tamaño son muy difícil empacarlos en bolsas, se sujetan con una bolsa pequeña y el tiquete.
@@ -174,7 +174,7 @@
             .row(titulo="14").p-4
               .col-md-2.col-8
                 figure
-                  img(src='@/assets/curso/tema3/14.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/tema3/14.png', alt='')
               .col-md-10.mb-4.mb-md-0.py-2
                 h5 Paso 14
                 p Los artículos que vienen empacados en cajas, como ollas, vajillas y televisores, se les adhiere el tiquete de compra.
@@ -182,7 +182,7 @@
             .row(titulo="15").p-4
               .col-md-2.col-8
                 figure
-                  img(src='@/assets/curso/tema3/15.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/tema3/15.png', alt='')
               .col-md-10.mb-4.mb-md-0.py-2
                 h5 Paso 15
                 p Los licores, sobre todo los costosos, cuando son varios puede empacarlos en bolsa doble, evitando que se quiebren.
@@ -190,7 +190,7 @@
             .row(titulo="16").p-4
               .col-md-2.col-8
                 figure
-                  img(src='@/assets/curso/tema3/16.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/tema3/16.png', alt='')
               .col-md-10.mb-4.mb-md-0.py-2
                 h5 Paso 16
                 p Los artículos de loza o cristal deben envolverse con papel antes de ser empacados en cajas de cartón o en bolsas cuando son pocos.
@@ -198,7 +198,7 @@
             .row(titulo="17").p-4
               .col-md-2.col-8
                 figure
-                  img(src='@/assets/curso/tema3/17.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/tema3/17.png', alt='')
               .col-md-10.mb-4.mb-md-0.py-2
                 h5 Paso 17
                 p Debe tener cuidado con productos como arepas, huevos, productos de panadería, bombillos, frutas y verduras.
@@ -208,14 +208,14 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.col-8
-        img(src='@/assets/curso/tema3/img02.png', alt='Texto que describa la imagen')
+        img(src='@/assets/curso/tema3/img02.png', alt='')
         .py-4
       .col-lg-8  
         .row.justify-content-center
           .col-lg-5.col-md-6.mb-4.py-4
             .overflow-hidden.h-100.bg01.p-4
               .py-3
-              img.img-a.img-t(src='@/assets/curso/tema3/num1.png', alt='tema1')
+              img.img-a.img-t(src='@/assets/curso/tema3/num1.png', alt='')
               .py-2
               p.mb-0 Antes de iniciar un nuevo registro verifique que en el puesto de pago no hayan quedado paquetes o mercancía del cliente anterior.
               br
@@ -225,7 +225,7 @@
           .col-lg-5.col-md-6.mb-4.py-4
             .overflow-hidden.h-100.bg01.p-4 
               .py-3
-              img.img-a.img-t(src='@/assets/curso/tema3/num2.png', alt='tema1')
+              img.img-a.img-t(src='@/assets/curso/tema3/num2.png', alt='')
               .py-2
               p.mb-0 Anotar en el tiquete el código del empacador y notificar al cliente el número de paquetes.
               br
@@ -364,14 +364,14 @@
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.col-8
-        img(src='@/assets/curso/tema3/img10.png', alt='Texto que describa la imagen')
+        img(src='@/assets/curso/tema3/img10.png', alt='')
         .py-4
       .col-lg-8  
         .row.justify-content-center
           .col-lg-5.col-md-6.mb-4.py-4
             .overflow-hidden.h-100.bg5.p-4
               .py-3
-              img.img-a.img-t(src='@/assets/curso/tema3/num1.png', alt='tema1')
+              img.img-a.img-t(src='@/assets/curso/tema3/num1.png', alt='')
               .py-2
               p.mb-0 Consiste en proteger el producto para que llegue en las mejores condiciones al consumidor o cliente final.
               br
@@ -381,7 +381,7 @@
           .col-lg-5.col-md-6.mb-4.py-4
             .overflow-hidden.h-100.bg5.p-4 
               .py-3
-              img.img-a.img-t(src='@/assets/curso/tema3/num2.png', alt='tema1')
+              img.img-a.img-t(src='@/assets/curso/tema3/num2.png', alt='')
               .py-2
               p.mb-0 Una de las funciones que debe cumplir el empaque es ayudar a vender el producto, logrando que el canal de distribución quiera comercializarlo por considerar que es fácil de transportar y almacenar.
               br
@@ -394,13 +394,13 @@
 
     .row.justify-content-center.align-items-center.mb-2
       .col-lg-4.col-8
-        img.mb-2(src='@/assets/curso/tema3/img11.png', alt='tema1')
+        img.mb-2(src='@/assets/curso/tema3/img11.png', alt='')
       .col-lg-8
         .row.justify-content-center.align-items-center
           .col-lg-11
             p Cada producto tiene su propio envase y embalaje, el envase primario tiene como función contenerlo, envolverlo, protegerlo y conservarlo, es el primer contacto con el producto, el empaque secundario tiene uno o varios embalajes primarios.
           .col-lg-1.col-3
-            img.mb-3(src='@/assets/curso/tema3/img12.png', alt='tema1')
+            img.mb-3(src='@/assets/curso/tema3/img12.png', alt='')
         .cajon.color-primario.p-4.mb-4
           p Teniendo en cuenta los diferentes tipos de envases se deben categorizar en primarios, secundarios y terciarios, el envase primario es el que protege y está en contacto directo con el producto, el secundario contiene varios productos y facilita su traslado, el terciario es el que contiene envases grandes con mucha mercancía.
 
@@ -421,7 +421,7 @@
           .tarjeta.color-acento-botones.p-4
             .row.justify-content-center.mb-3
               .col-7
-                img.mt-2(src='@/assets/curso/tema3/01.png' alt='AvatarTop')
+                img.mt-2(src='@/assets/curso/tema3/01.png' alt='')
             h5.text-center.mt-4 El envase primario
             p.mt-4 Es el que tiene contacto directo con el producto, además de contener el producto permite su consumo. 
             p.mt-4 Un ejemplo de envase primario son las latas que contienen leche, sea líquida o en polvo. La función de este primer envase es cumplir con dos condiciones principales: proteger la mercancía y fomentar las ventas.
@@ -429,21 +429,21 @@
           .tarjeta.color-acento-botones.p-4
             .row.justify-content-center.mb-3
               .col-7
-                img.mt-2(src='@/assets/curso/tema3/02.png' alt='AvatarTop')
+                img.mt-2(src='@/assets/curso/tema3/02.png' alt='')
               h5.mt-4.text-center Envase secundario
               p.mt-4 Es el contenedor unitario de uno o varios envases primarios. Su función es protegerlos, identificarlos y proporcionar información sobre las cualidades del producto.
           
           .tarjeta.color-acento-botones.p-4
             .row.justify-content-center.mb-3
               .col-7
-                img.mt-2(src='@/assets/curso/tema3/03.png' alt='AvatarTop')
+                img.mt-2(src='@/assets/curso/tema3/03.png' alt='')
               h5.mt-4.text-center Envase terciario
               p.mt-4 Es el envase que cumple con la función de distribuir, unificar y proteger el producto a lo largo de la cadena comercial.  Este envase se refiere a la caja de cartón corrugado que contendrá varias latas de leche para su distribución a los almacenes.
           
           .tarjeta.color-acento-botones.p-4
             .row.justify-content-center.mb-3
               .col-7
-                img.mt-2(src='@/assets/curso/tema3/04.png' alt='AvatarTop')
+                img.mt-2(src='@/assets/curso/tema3/04.png' alt='')
             h5.text-center.mt-4 ¿Qué es el envase y sus características?
             p.mt-4 El envase es todo recipiente o soporte destinado a contener un producto para así poder facilitar su transporte. 
             p.mt-4 Un buen envase se identifica por las siguientes características: posibilidad de contener el producto y resistencia.
@@ -451,7 +451,7 @@
           .tarjeta.color-acento-botones.p-4
             .row.justify-content-center.mb-3
               .col-7
-                img.mt-2(src='@/assets/curso/tema3/05.png' alt='AvatarTop')
+                img.mt-2(src='@/assets/curso/tema3/05.png' alt='')
               h5.text-center.mt-4 ¿Cuál es el mejor envase para alimentos?
               p.mt-4 Unos de los envases que más se usa para empacar alimentos es el aluminio y la hojalata, ya que son más confiables que las bolsas de plástico a la hora del transporte, también porque extiende la vida útil del producto, factor importante en la planificación y sostenibilidad de la venta.
           
@@ -464,20 +464,20 @@
           .tarjeta.color-acento-botones.p-4
             .row.justify-content-center.mb-3
               .col-7
-                img.mt-2(src='@/assets/curso/tema3/07.png' alt='AvatarTop')
+                img.mt-2(src='@/assets/curso/tema3/07.png' alt='')
               h5.text-center.mt-4 ¿Cuál es uno de los materiales más utilizados para fabricar envases de alimentos?
               p.mt-4 El plástico es uno de los materiales más utilizados para fabricar envases de alimentos debido a sus propiedades. Entre los tipos de plástico empleados se encuentra el PET (tereftalato de polietileno), valorado por su inercia química y su facilidad para adoptar diferentes formas.
           .tarjeta.color-acento-botones.p-4
             .row.justify-content-center.mb-3
               .col-7
-                img.mt-2(src='@/assets/curso/tema3/08.png' alt='AvatarTop')
+                img.mt-2(src='@/assets/curso/tema3/08.png' alt='')
               h5.text-center.mt-4 Envases plásticos aptos para microondas
               p.mt-4 Solo se deben utilizar en el microondas los envases plásticos que indiquen expresamente que son aptos para este uso. Los recipientes no autorizados pueden deformarse, fundirse o liberar sustancias que contaminen los alimentos.
 
           .tarjeta.color-acento-botones.p-4
             .row.justify-content-center.mb-3
               .col-7
-                img.mt-2(src='@/assets/curso/tema3/09.png' alt='AvatarTop')
+                img.mt-2(src='@/assets/curso/tema3/09.png' alt='')
             h5.text-center.mt-4 ¿Qué recipientes no se pueden meter en el microondas?
             p.mt-4 Hay que ser muy cuidadoso con los recipientes que se usan para la preparación de alimentos en el microondas, no se pueden utilizar el papel de aluminio o las tapas metálicas hasta recipientes de acero inoxidable o las vajillas decoradas con pinturas metálicas. 
             p.mt-4 No se deben usar los recipientes herméticamente cerrados e incluso los alimentos con cáscara o piel dura para evitar que revienten.
@@ -623,10 +623,13 @@
       h2 3.5  Empaque de productos según naturaleza
 
     p.mb-3 Para elaborar empaques y embalajes se deben considerar las características del producto que se desea proteger y el medio de transporte que se utilizará. Entre los principales factores se encuentran los siguientes:
-
+    
+    .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+      h5 Figura 1.
+      span Características del producto para seleccionar empaques y embalajes
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
-        img.mb-3(src="@/assets/curso/tema3/img20.svg")
+        img.mb-3(src="@/assets/curso/tema3/img20.svg", alt='Características para seleccionar empaques y embalajes: fragilidad, durabilidad, resistencia a la abrasión, sensibilidad a la humedad y vida útil.')
 
       p.mb-3 Los empaques y embalajes deben seleccionarse de acuerdo con las características del producto y las condiciones de manipulación y transporte. Entre los materiales más utilizados se encuentran la madera, el cartón, el plástico, el vidrio y el metal. La elección del material depende de sus propiedades físicas, mecánicas y químicas, así como de la protección que requiera el producto.
       p.mb-3 A continuación, consulte las ventajas y desventajas de los materiales más comunes utilizados en la elaboración de empaques y embalajes.
